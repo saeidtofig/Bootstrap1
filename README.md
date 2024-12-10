@@ -23,11 +23,10 @@ Follow these steps to set up and run this project locally.
 Ensure you have the following installed:
 
 - A modern web browser (e.g., Chrome, Firefox)
-- [Optional tools like Node.js or a live server if required]
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/saeidtofig/One-Page-Bootstrap-template.git
